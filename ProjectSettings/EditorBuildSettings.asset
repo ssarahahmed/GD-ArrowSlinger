@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Easy Mode.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Medium Mode.unity
+    guid: 122652303e8e947ac9674f1a5711fbc9
+  - enabled: 1
+    path: Assets/Scenes/Hard mode.unity
+    guid: e81155994436141f8a9a28c3a31d67db
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f24a70896adff4f478479e673867955b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: e194aa0492c4d4cbab034210315a1f09
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
